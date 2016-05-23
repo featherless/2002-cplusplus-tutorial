@@ -81,15 +81,15 @@ Double click on C++ Source File, and it will load up a new .cpp file. Now, first
 
 ### [#include &lt;iostream.h&gt;int main()  
 { cout &lt;&lt; "Hello World";cout &lt;&lt; "This is being displayed to your screen using the cout command!"; return 0;  } Now is your first big step in to the world of programming: your first program!  
-First, copy/paste/type the code in to MSVS, then click the button that looks like this- ![Compile](file:///D:/projects/2003/brinksterbackup/ezroms/cpptut/compile.gif) or if that isn't there, click Build, Compile.  
-![PIC](file:///D:/projects/2003/brinksterbackup/ezroms/cpptut/002.gif)  
+First, copy/paste/type the code in to MSVS, then click the button that looks like this- ![Compile](compile.gif) or if that isn't there, click Build, Compile.  
+![PIC](002.gif)  
 However you managed to compile it, it should pop up with a warning that looks somewhat like this-  
-![PIC](file:///D:/projects/2003/brinksterbackup/ezroms/cpptut/003.gif)  
+![PIC](003.gif)  
 Say yes, and then it will ask you where you would like to save it. If I were you, I'd create a new folder for this whole tutorial, that way it will be a lot easier to work with and find later on.  
 Click ok and save it, then it should start whirring away, and at the bottom (once it's finished) it should say something like this-  
-![PIC](file:///D:/projects/2003/brinksterbackup/ezroms/cpptut/004.gif)  
-Now you are ready to run your program. First off, for the sake of your computers memory, you'll want to compile it to a Release type, instead of Debug. To change that setting, right click anywhere on your toolbars, and a small menu thing should pop up. Make sure that the Build toolbar is on. Now that that is on, click the button Win32 Debug, and change it to Win32 Release. Now that that's all set up, click the button that looks like this- ![Execute](file:///D:/projects/2003/brinksterbackup/ezroms/cpptut/execute.gif) or if you can't find that (it's on the build bar), press ctrl-F5, or if you don't know how to do that...sheesh....press Build, Execute. Now that your program is compiling in to a .exe, it should pop up in a couple seconds, depending on how fast your computer is.  
+![PIC](004.gif)  
+Now you are ready to run your program. First off, for the sake of your computers memory, you'll want to compile it to a Release type, instead of Debug. To change that setting, right click anywhere on your toolbars, and a small menu thing should pop up. Make sure that the Build toolbar is on. Now that that is on, click the button Win32 Debug, and change it to Win32 Release. Now that that's all set up, click the button that looks like this- ![Execute](execute.gif) or if you can't find that (it's on the build bar), press ctrl-F5, or if you don't know how to do that...sheesh....press Build, Execute. Now that your program is compiling in to a .exe, it should pop up in a couple seconds, depending on how fast your computer is.  
 Once your program is finished compiling, it should pop up with a COMMAND PROMPT that will look something like this-  
-![PIC](file:///D:/projects/2003/brinksterbackup/ezroms/cpptut/005.gif) ]()
+![PIC](005.gif) ]()
 
 > A chapter of featherless' [digital creative history](https://github.com/featherless/digital-creative-history).
