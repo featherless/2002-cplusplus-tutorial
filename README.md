@@ -60,7 +60,7 @@ it
 
 #### /* Lesson 2 */
 
-### [First, load up MVS (Microsoft Visual Studio) and click File, New, and then click files. Your screen should look like this:![PIC](file:///D:/projects/2003/brinksterbackup/ezroms/cpptut/001.gif)  
+### [First, load up MVS (Microsoft Visual Studio) and click File, New, and then click files. Your screen should look like this:![PIC](001.gif)  
 Double click on C++ Source File, and it will load up a new .cpp file. Now, first off, I'll introduce to you just some basic Input and Output, starting with cout ]()
 
 []()[    **cout** :: Used to output text to the screen at the current cursor position.  
